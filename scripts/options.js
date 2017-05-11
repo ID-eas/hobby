@@ -1,5 +1,5 @@
 var vblog={
-        login:'vik',
+        login:'eduard',
 		replieLink:'blogs',
 		followTag:'ru--otkrytyij-kod',
 
