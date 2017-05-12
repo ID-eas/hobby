@@ -34,7 +34,7 @@ img {
 }
 
 .site-logo {
-  background: url(https://github.com/myhobbies/myhobbies/blob/master/img/logolos.png) 50% no-repeat;
+  background: url(/myhobbies/myhobbies/blob/master/img/logolos.png) 50% no-repeat;
   background-size: cover;
   margin: 15px auto;
 }
